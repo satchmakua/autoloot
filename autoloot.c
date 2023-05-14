@@ -1,8 +1,3 @@
-// Written in C
-
-// Satchel Hamilton
-// CS 450
-// Project 4 - Autoloot
 
 #include <stdio.h>
 #include <time.h>
